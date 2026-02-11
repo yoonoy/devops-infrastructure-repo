@@ -5,3 +5,4 @@
 # Conflict line from main
 >>>>>>> main
 # Deployment docs
+- Added Kubernetes setup instructions
