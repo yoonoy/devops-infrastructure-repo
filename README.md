@@ -7,3 +7,4 @@
 # Deployment docs
 - Added Kubernetes setup instructions
 - Line from feature/conflict branch
+- Line from feature/conflict branch
